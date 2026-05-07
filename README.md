@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Pedro Xavier!
 
-<!--
-**xvrpedro/xvrpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas na ETEC.
+Construindo carreira em Engenharia de Software, 
+Cibersegurança e IA.
 
-Here are some ideas to get you started:
+## O que já sei
+- HTML5 e CSS3 (Box Model, propriedades principais)
+- Lógica de programação (operadores, decisão, loops)
+- Banco de dados conceitual (DER, cardinalidade, 
+  modelo lógico e conceitual, tipos de dados)
+- JavaScript (funções, eventos — em evolução)
+- Linux terminal básico
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente aprendendo
+- JavaScript intermediário
+- Linux
+
+## Objetivo
+Engenharia de Software com especialização em 
+Cibersegurança e IA
