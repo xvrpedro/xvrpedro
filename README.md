@@ -14,7 +14,7 @@ Cibersegurança e IA.
 - Git e GitHub
 
 ## Atualmente aprendendo
-- JavaScript intermediário
+- JavaScript básico
 - Linux
 
 ## Objetivo
