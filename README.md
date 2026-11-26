@@ -16,6 +16,7 @@ Cibersegurança e IA.
 ## Atualmente aprendendo
 - JavaScript básico
 - Linux
+- Python
 
 ## Objetivo
 Engenharia de Software com especialização em 
